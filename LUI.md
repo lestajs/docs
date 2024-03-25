@@ -5,10 +5,16 @@
 ### proxies
 
 |Name|Type|Description|Default|
-|---|---|---|---|
+|-|-|-|-|
 |value|boolean|Значение checked у компонента|false|
 |disabled|boolean|Состояние компонента доступен / недоступен|false|
 |error|boolean|Состояние ошибки у компонента|false|
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 
 ### params
