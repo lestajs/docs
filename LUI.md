@@ -5,10 +5,11 @@
 ### proxies
 
 |Name|Type|Description|Default|
-|-|-|-|-|
+|---|---|---|---|
 |value|boolean|Значение checked у компонента|false|
 |disabled|boolean|Состояние компонента доступен / недоступен|false|
 |error|boolean|Состояние ошибки у компонента|false|
+
 
 ### params
 
