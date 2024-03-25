@@ -3,6 +3,7 @@
 ## Props
 
 ### proxies
+
 |Name|Type|Description|Default|
 |-|-|-|-|
 |value|boolean|Значение checked у компонента|false|
@@ -10,6 +11,7 @@
 |error|boolean|Состояние ошибки у компонента|false|
 
 ### params
+
 |Name|Type|Description|Default|
 |-|-|-|-|
 |name|string|Имя компонента|—|
@@ -17,6 +19,7 @@
 |text|string|Надпись у компонента|—|
 
 ### methods
+
 |Name|Description|Parameters|
 |-|-|-|
 |action|Ловит действие компонента| (имя компонента, значение компонента)
