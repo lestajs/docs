@@ -1,26 +1,20 @@
-## Checkbox
+<!--tabs-->
 
-## Props
+## Checkbox
 
 ### proxies
 
 |Name|Type|Description|Default|
-|-|-|-|-|
+|:-|:-|:-|:-|
 |value|boolean|Значение checked у компонента|false|
 |disabled|boolean|Состояние компонента доступен / недоступен|false|
 |error|boolean|Состояние ошибки у компонента|false|
-
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
 
 
 ### params
 
 |Name|Type|Description|Default|
-|-|-|-|-|
+|:-|:-|:-|:-|
 |name|string|Имя компонента|—|
 |size|string: small/medium/large|Визуальный размер компонента|medium|
 |text|string|Надпись у компонента|—|
@@ -28,7 +22,7 @@
 ### methods
 
 |Name|Description|Parameters|
-|-|-|-|
+|:-|:-|:-|
 |action|Ловит действие компонента| (имя компонента, значение компонента)
 
 
