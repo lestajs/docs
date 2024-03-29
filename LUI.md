@@ -1,4 +1,4 @@
-## Checkbox
+# Checkbox
 Checkboxes allow the user to select one or more items from a set.
 
 ### proxies
@@ -23,9 +23,9 @@ Checkboxes allow the user to select one or more items from a set.
 |:-|:-|:-|
 |action|Ловит действие компонента| (имя компонента, значение компонента)
 
-## External methods
+### External methods
 
-### set
+**set**
 Устанавливает новое значение для "value" в компоненте компонента. Метод доступен, как свойство объекта узла
 
 ```js
