@@ -25,7 +25,8 @@ Checkboxes allow the user to select one or more items from a set.
 
 ### External methods
 
-**set**
+#### set
+
 Устанавливает новое значение для "value" в компоненте компонента. Метод доступен, как свойство объекта узла
 
 ```js
