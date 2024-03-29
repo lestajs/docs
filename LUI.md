@@ -1,6 +1,5 @@
-<!--tabs-->
-
 ## Checkbox
+Checkboxes allow the user to select one or more items from a set.
 
 ### proxies
 
@@ -9,7 +8,6 @@
 |value|boolean|Значение checked у компонента|false|
 |disabled|boolean|Состояние компонента доступен / недоступен|false|
 |error|boolean|Состояние ошибки у компонента|false|
-
 
 ### params
 
@@ -25,8 +23,8 @@
 |:-|:-|:-|
 |action|Ловит действие компонента| (имя компонента, значение компонента)
 
-
 ## External methods
+
 ### set
 Устанавливает новое значение для "value" в компоненте компонента. Метод доступен, как свойство объекта узла
 
